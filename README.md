@@ -1,4 +1,4 @@
-# # WallStreetWisdom: Unleashing AI Magic on r/WallStreetBets 🚀📊
+# # WallStreetBets: Unleashing AI Magic on r/WallStreetBets 🚀📊
 
 Welcome to WallStreetWisdom, where we've harnessed the power of AI and ML to transform the chaos of r/WallStreetBets into valuable stock insights. With WallStreetWisdom, you'll discover a world of filtered and classified stock research, seamlessly combined with financial data, and presented in an easily digestible format.
 
@@ -27,7 +27,7 @@ To embark on your WallStreetWisdom journey, follow these steps:
 
 1. **Clone the Repository:** Get your hands on WallStreetWisdom by cloning this repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/WallStreetWisdom.git
+   git clone https://github.com/SURBHI0402/WallStreetBets.git
    ```
 
 2. **Set Up the Environment:** Create a virtual environment and install the necessary dependencies.
@@ -41,14 +41,6 @@ To embark on your WallStreetWisdom journey, follow these steps:
    ```bash
    python manage.py runserver
    ```
-
-## Contribute to WallStreetWisdom 🌟
-
-We welcome contributions from data enthusiasts, AI wizards, and anyone passionate about the stock market. Your expertise can help us refine and improve WallStreetWisdom. Check out our [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## License 📜
-
-WallStreetWisdom operates under the MIT License. Please refer to the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments 🙏
 
