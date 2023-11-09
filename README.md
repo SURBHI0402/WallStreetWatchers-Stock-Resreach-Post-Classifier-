@@ -1,8 +1,8 @@
-# # WallStreetBets: Unleashing AI Magic on r/WallStreetBets 🚀📊
+# # WallStreetWatchers: Unleashing AI Magic on r/WallStreetBets 🚀📊
 
 Welcome to WallStreetWisdom, where we've harnessed the power of AI and ML to transform the chaos of r/WallStreetBets into valuable stock insights. With WallStreetWisdom, you'll discover a world of filtered and classified stock research, seamlessly combined with financial data, and presented in an easily digestible format.
 
-## What is WallStreetWisdom? 🤖
+## What is WallStreetWatchers? 🤖
 
 At its core, WallStreetWisdom is an AI and ML project that tames the wild west of r/WallStreetBets. Here's what it does:
 
@@ -47,4 +47,4 @@ To embark on your WallStreetWisdom journey, follow these steps:
 - We tip our hats to the r/WallStreetBets community for their invaluable contributions.
 - A special thanks to the creators of Spark NLP for their fantastic tool.
 
-Unlock the power of AI in stock research with WallStreetWisdom! 🚀📈🔍
+Unlock the power of AI in stock research with WallStreetWatchers! 🚀📈🔍
